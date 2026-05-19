@@ -25,3 +25,7 @@ Choose:
 
 Output:
 patched_download0.dat
+
+Credits
+SleuthKit
+FreeBSD UFS2
