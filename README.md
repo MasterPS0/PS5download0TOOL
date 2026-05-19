@@ -13,16 +13,6 @@ Professional Windows tool for:
 
 ## Folder Structure
 
-PPSA01650/
-├── run_tool.bat
-├── extract_windows.py
-├── download0.dat
-└── sleuthkit/
-    └── bin/
-        ├── fls.exe
-        ├── icat.exe
-        └── istat.exe
-
 ## Usage
 
 Run:
