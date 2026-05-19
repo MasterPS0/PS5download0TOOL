@@ -72,8 +72,3 @@ This tool is intended ONLY for:
 FOR EDUCATIONAL / RESEARCH USE ONLY
 
 ====================================================
-
-FOR EDUCATIONAL / RESEARCH USE ONLY
-
-====================================================
-
