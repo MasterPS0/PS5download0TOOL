@@ -14,29 +14,19 @@ Professional Windows tool for:
 ## Folder Structure
 
 PPSA01650/
+│
 ├── run_tool.bat
 ├── extract_windows.py
 ├── download0.dat
+│
+├── extracted/
+│
 └── sleuthkit/
     └── bin/
         ├── fls.exe
         ├── icat.exe
         └── istat.exe
 
-Requirements
-Python
-
-Install Python 3.12+
-
-Download:
-
-https://www.python.org/downloads/windows/
-
-SleuthKit for Windows
-
-Download SleuthKit binaries:
-
-https://github.com/sleuthkit/sleuthkit/releases
 
 IMPORTANT:
 
