@@ -1,9 +1,8 @@
 # PS5 download0.dat Windows Tool
 
-Professional Windows tool for:
+ Windows tool for:
 - Extracting PS5 `download0.dat`
 - Modifying YouTube cache exploit files
-- Patching original filesystem without rebuilding UFS
 
 ## Features
 - Extract original `download0.dat`
