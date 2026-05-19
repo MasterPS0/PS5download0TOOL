@@ -14,23 +14,15 @@ Professional Windows tool for:
 ## Folder Structure
 
 PPSA01650/
-│
 ├── run_tool.bat
 ├── extract_windows.py
 ├── download0.dat
-│
-├── extracted/
-│
 └── sleuthkit/
     └── bin/
         ├── fls.exe
         ├── icat.exe
         └── istat.exe
 
-
-IMPORTANT:
-
-Enable:
 ## Usage
 
 Run:
@@ -43,11 +35,3 @@ Choose:
 
 Output:
 patched_download0.dat
-
-
-
-Credits
-SleuthKit
-
-FreeBSD UFS2
-
